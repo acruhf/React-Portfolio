@@ -8,18 +8,18 @@ function Portfolio() {
       <Row>
         <Col>
           <Section>
-            <div class="container">
-              <div class= "row">
-                <div class="col-md-12">
-                  <div class="page-header">
+            <div className="container">
+              <div className= "row">
+                <div className="col-md-12">
+                  <div className="page-header">
                     <h2>Walkies</h2>
                   </div>
                 </div>
-                <div class= "col-md-6">
+                <div className= "col-md-6">
                   <br />
-                  <img src="assets/walkiesshot.png" alt="Walkies" class="portfolio"/>
+                  <img src="assets/walkiesshot.png" alt="Walkies" className="portfolio"/>
                 </div>
-                <div class= "col-md-6">
+                <div className= "col-md-6">
                   <br />
                   <p>My second group project harnessing the power of MySQL and Sequelize to give you a local dog-walking app.
                     <br />
@@ -32,17 +32,17 @@ function Portfolio() {
                 </div>
               </div>
               <br />
-              <div class= "row">
-                <div class="col-md-12">
-                  <div class="page-header">
+              <div className= "row">
+                <div className="col-md-12">
+                  <div className="page-header">
                   <h2>Birthday Bot</h2>
                   </div>
                 </div>
-                <div class= "col-md-6">
+                <div className= "col-md-6">
                 <br />
-                 <img src="assets/birthdayShot.png" alt="Birthday Bot" class="portfolio"/>
+                 <img src="assets/birthdayShot.png" alt="Birthday Bot" className="portfolio"/>
                 </div>
-                <div class= "col-md-6">
+                <div className= "col-md-6">
                   <br />
                   <p>My first group project harnessing the power of APIs to give you a personalized list of celebrity birthdays.
                     <br  />
@@ -55,17 +55,17 @@ function Portfolio() {
                 </div>
               </div>
               <br />
-              <div class= "row">
-                <div class="col-md-12">
-                  <div class="page-header">
+              <div className= "row">
+                <div className="col-md-12">
+                  <div className="page-header">
                     <h2>Eat-Da-Burger</h2>
                   </div>
                 </div>
-                <div class= "col-md-6">
+                <div className= "col-md-6">
                   <br />
-                  <img src="assets/eatdaburger.png" alt="Eat-Da-Burger" class="portfolio"/>
+                  <img src="assets/eatdaburger.png" alt="Eat-Da-Burger" className="portfolio"/>
                 </div>
-                <div class= "col-md-6">
+                <div className= "col-md-6">
                   <br />
                   <p>A Burger-Eating app made using Node, Express, and MySQL 
                     <br />
@@ -78,17 +78,17 @@ function Portfolio() {
                 </div>
               </div>
               <br />
-              <div class= "row">
-                <div class="col-md-12">
-                  <div class="page-header">
+              <div className= "row">
+                <div className="col-md-12">
+                  <div className="page-header">
                     <h2>Work Day Scheduler</h2>
                   </div>
                 </div>
-                <div class= "col-md-6">
+                <div className= "col-md-6">
                   <br />
-                  <img src="assets/Work_Day_Scheduler.gif" alt="Work Day Scheduler" class="portfolio"/>
+                  <img src="assets/Work_Day_Scheduler.gif" alt="Work Day Scheduler" className="portfolio"/>
                 </div>
-                <div class= "col-md-6">
+                <div className= "col-md-6">
                   <br />
                   <p>For this assignment I made a workday hourly task list with a dynamically generated display with the ability to save list items in local storage.
                     <br />
@@ -101,17 +101,17 @@ function Portfolio() {
                 </div>
               </div>
               <br />
-              <div class= "row">
-                <div class="col-md-12">
-                  <div class="page-header">
+              <div className= "row">
+                <div className="col-md-12">
+                  <div className="page-header">
                     <h2>Timed Quiz</h2>
                   </div>
                 </div>
-                <div class= "col-md-6">
+                <div className= "col-md-6">
                 <br />
-                <img src="assets/EGQ.gif" alt="Timed-Quiz" class="portfolio"/>
+                <img src="assets/EGQ.gif" alt="Timed-Quiz" className="portfolio"/>
               </div>
-              <div class="col-md-6">
+              <div className="col-md-6">
                 <br />
                 <p>A timed multiple-choice quiz on the topic of Electric Guitars. This assignment was a test of applying various javascript concepts together including a timer, scoring system, and a leaderboard for saving scores into local storage
                   <br />
