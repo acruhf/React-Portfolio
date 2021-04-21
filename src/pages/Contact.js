@@ -1,6 +1,9 @@
 import React from "react";
 import { Col, Row, Container } from "../components/Grid";
 import Section from "../components/Section";
+import Linkedin from "../assets/Lin.png";
+import Github from "../assets/ghub.png";
+
 
 function Contact() {
   return (
@@ -19,12 +22,12 @@ function Contact() {
               <br />
               <div className= "row">
                 <div className= "col-lg-4 text-center">
-                  <a href="https://www.linkedin.com/in/austin-ruhf/"><img src="../assets/Lin.png" alt="Linkedin"/>
+                  <a href="https://www.linkedin.com/in/austin-ruhf/"><img src={Linkedin} alt="Linkedin"/>
                     <p>Linkedin</p>
                   </a>
                 </div>
                 <div className= "col-lg-4 text-center">
-                    <a href="https://github.com/acruhf"><img src="../assets/ghub.png" alt="Github"/>
+                    <a href="https://github.com/acruhf"><img src={Github} alt="Github"/>
                     <p>Github</p>
                     </a>
                 </div>

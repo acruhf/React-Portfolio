@@ -1,6 +1,7 @@
 import React from "react";
 import { Col, Row, Container } from "../components/Grid";
 import Section from "../components/Section";
+import Austin from "../assets/home_page.jpg"
 
 function Home() {
   return (
@@ -9,7 +10,7 @@ function Home() {
         <Col>
           <Section>
             <div className="col-sm-12 col-lg-6">
-                <img src="assets/home_page.jpg" className="img-fluid self" alt="Austin"/>
+                <img src={Austin} className="img-fluid self" alt="Austin"/>
             </div>
             <div className="col-sm-12 col-lg-6">
                 <p> 

@@ -1,6 +1,11 @@
 import React from "react";
 import { Col, Row, Container } from "../components/Grid";
 import Section from "../components/Section";
+import WalkiesShot from "../assets/walkiesshot.png";
+import BirthdayShot from "../assets/birthdayShot.png";
+import EatDaBurger from "../assets/eatdaburger.png";
+import WorkDayScheduler from "../assets/Work_Day_Scheduler.gif";
+import EGQ from "../assets/EGQ.gif";
 
 function Portfolio() {
   return (
@@ -17,7 +22,7 @@ function Portfolio() {
                 </div>
                 <div className= "col-md-6">
                   <br />
-                  <img src="assets/walkiesshot.png" alt="Walkies" className="portfolio"/>
+                  <img src={WalkiesShot} alt="Walkies" className="portfolio"/>
                 </div>
                 <div className= "col-md-6">
                   <br />
@@ -40,7 +45,7 @@ function Portfolio() {
                 </div>
                 <div className= "col-md-6">
                 <br />
-                 <img src="assets/birthdayShot.png" alt="Birthday Bot" className="portfolio"/>
+                 <img src={BirthdayShot} alt="Birthday Bot" className="portfolio"/>
                 </div>
                 <div className= "col-md-6">
                   <br />
@@ -63,7 +68,7 @@ function Portfolio() {
                 </div>
                 <div className= "col-md-6">
                   <br />
-                  <img src="assets/eatdaburger.png" alt="Eat-Da-Burger" className="portfolio"/>
+                  <img src={EatDaBurger} alt="Eat-Da-Burger" className="portfolio"/>
                 </div>
                 <div className= "col-md-6">
                   <br />
@@ -86,7 +91,7 @@ function Portfolio() {
                 </div>
                 <div className= "col-md-6">
                   <br />
-                  <img src="assets/Work_Day_Scheduler.gif" alt="Work Day Scheduler" className="portfolio"/>
+                  <img src={WorkDayScheduler} alt="Work Day Scheduler" className="portfolio"/>
                 </div>
                 <div className= "col-md-6">
                   <br />
@@ -109,7 +114,7 @@ function Portfolio() {
                 </div>
                 <div className= "col-md-6">
                 <br />
-                <img src="assets/EGQ.gif" alt="Timed-Quiz" className="portfolio"/>
+                <img src={EGQ} alt="Timed-Quiz" className="portfolio"/>
               </div>
               <div className="col-md-6">
                 <br />
