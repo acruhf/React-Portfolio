@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.6bc91273.chunk.css",
-    "main.js": "/static/js/main.f171a1be.chunk.js",
-    "main.js.map": "/static/js/main.f171a1be.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fcb7d38d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fcb7d38d.js.map",
-    "static/js/2.2ecd96d6.chunk.js": "/static/js/2.2ecd96d6.chunk.js",
-    "static/js/2.2ecd96d6.chunk.js.map": "/static/js/2.2ecd96d6.chunk.js.map",
-    "static/js/3.6c28ddc8.chunk.js": "/static/js/3.6c28ddc8.chunk.js",
-    "static/js/3.6c28ddc8.chunk.js.map": "/static/js/3.6c28ddc8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6bc91273.chunk.css.map": "/static/css/main.6bc91273.chunk.css.map",
-    "static/js/2.2ecd96d6.chunk.js.LICENSE.txt": "/static/js/2.2ecd96d6.chunk.js.LICENSE.txt",
-    "static/media/EGQ.aab005f8.gif": "/static/media/EGQ.aab005f8.gif",
-    "static/media/Work_Day_Scheduler.9beb602d.gif": "/static/media/Work_Day_Scheduler.9beb602d.gif",
-    "static/media/birthdayShot.883f265a.png": "/static/media/birthdayShot.883f265a.png",
-    "static/media/eatdaburger.12c56984.png": "/static/media/eatdaburger.12c56984.png",
-    "static/media/home_page.673b620f.jpg": "/static/media/home_page.673b620f.jpg",
-    "static/media/walkiesshot.fd646a8c.png": "/static/media/walkiesshot.fd646a8c.png"
+    "main.css": "/React_Portfolio/static/css/main.6bc91273.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.17b65c8e.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.17b65c8e.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.27e8ee60.js",
+    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.27e8ee60.js.map",
+    "static/js/2.2ecd96d6.chunk.js": "/React_Portfolio/static/js/2.2ecd96d6.chunk.js",
+    "static/js/2.2ecd96d6.chunk.js.map": "/React_Portfolio/static/js/2.2ecd96d6.chunk.js.map",
+    "static/js/3.6c28ddc8.chunk.js": "/React_Portfolio/static/js/3.6c28ddc8.chunk.js",
+    "static/js/3.6c28ddc8.chunk.js.map": "/React_Portfolio/static/js/3.6c28ddc8.chunk.js.map",
+    "index.html": "/React_Portfolio/index.html",
+    "static/css/main.6bc91273.chunk.css.map": "/React_Portfolio/static/css/main.6bc91273.chunk.css.map",
+    "static/js/2.2ecd96d6.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.2ecd96d6.chunk.js.LICENSE.txt",
+    "static/media/EGQ.aab005f8.gif": "/React_Portfolio/static/media/EGQ.aab005f8.gif",
+    "static/media/Work_Day_Scheduler.9beb602d.gif": "/React_Portfolio/static/media/Work_Day_Scheduler.9beb602d.gif",
+    "static/media/birthdayShot.883f265a.png": "/React_Portfolio/static/media/birthdayShot.883f265a.png",
+    "static/media/eatdaburger.12c56984.png": "/React_Portfolio/static/media/eatdaburger.12c56984.png",
+    "static/media/home_page.673b620f.jpg": "/React_Portfolio/static/media/home_page.673b620f.jpg",
+    "static/media/walkiesshot.fd646a8c.png": "/React_Portfolio/static/media/walkiesshot.fd646a8c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcb7d38d.js",
+    "static/js/runtime-main.27e8ee60.js",
     "static/js/2.2ecd96d6.chunk.js",
     "static/css/main.6bc91273.chunk.css",
-    "static/js/main.f171a1be.chunk.js"
+    "static/js/main.17b65c8e.chunk.js"
   ]
 }
