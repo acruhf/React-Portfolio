@@ -12,7 +12,7 @@ function App() {
     <HashRouter>
       <Header />
       <Main>
-        <Route exact path={["/", "/home"]} component={Home} />
+        <Route exact path={["/", "React_Portfolio/"]} component={Home} />
         <Route exact path="/portfolio" component={Portfolio} />
         <Route exact path="/contact" component={Contact} />
       </Main>
