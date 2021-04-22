@@ -8,7 +8,7 @@ This portfolio update integrates my up-to-date learned knowledge of React.
 
 ### Deployed Link
 
-Deployed link: [https://acruhf.github.io/react-portfolio]
+Deployed link: [https://acruhf.github.io/react_portfolio]
 
 ### Screenshot of Deployed Page
 ![screenshot](src/assets/screenshots/screenshot_full.png "Site Preview")
