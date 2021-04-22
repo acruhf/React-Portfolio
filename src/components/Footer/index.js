@@ -7,7 +7,7 @@ function Footer() {
       <Container>
         <Row>
           <Col settings="text-center">
-            <span class="copyright">Copyright &copy; {new Date().getFullYear()} Austin Ruhf</span>
+            <span className="copyright">Copyright &copy; {new Date().getFullYear()} Austin Ruhf</span>
           </Col>
         </Row>
       </Container>
